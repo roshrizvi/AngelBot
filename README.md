@@ -1,6 +1,7 @@
 # Discord Bot
 
 A simple Discord bot built using `discord.py` that includes message logging, scheduled messages, and various commands.
+t's main intention was to automate sending a message at every "angel number" time such as 4:44am or 5:55pm.
 
 ## Features
 - Logs bot messages and DMs
